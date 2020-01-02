@@ -93,7 +93,7 @@ DEFAULT_FONT = {
     "darwin": "/Library/Fonts/Arial Unicode.ttf",
     "win32": "/Windows/Fonts/arial.ttf",
     "cygwin": "/cygdrive/c/Windows/Fonts/arial.ttf",
-    "linux": "/usr/share/fonts/truetype/freefont/FreeSans.ttf",
+    "linux": "/usr/share/fonts/freefont/FreeSans.ttf",
 }
 
 HALIGN = {"LEFT": "10", "CENTER": "(w/2-text_w/2)", "RIGHT": "(w-text_w)"}
